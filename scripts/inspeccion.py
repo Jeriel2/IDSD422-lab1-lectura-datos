@@ -1,7 +1,6 @@
 # inspeccion.py — Tipos, columna derivada e indicadores (Python)
 # Completa los pasos marcados con TODO. Ejecuta desde la raíz del repositorio:
 #   python scripts/inspeccion.py
-
 import pandas as pd
 
 # TODO 1: carga data/ventas.csv

@@ -9,7 +9,6 @@ ventas <- read.csv("data/ventas.csv", stringsAsFactors = FALSE)
 # TODO 2: imprime la estructura (str) para ver los tipos
 str(ventas)
 
-
 # TODO 3: crea la columna derivada "ticket" = ventas / clientes
 ventas$ticket <- ventas$ventas / ventas$clientes
 
